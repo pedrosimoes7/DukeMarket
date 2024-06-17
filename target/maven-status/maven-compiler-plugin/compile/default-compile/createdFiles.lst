@@ -1,0 +1,4 @@
+br\com\simoes\dukemarket\dao\ProdutosDAO.class
+br\com\simoes\dukemarket\bean\Produto.class
+connection\MySQLConnection.class
+br\com\simoes\dukemarket\app\DukeMarketApp.class
